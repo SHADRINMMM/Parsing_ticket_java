@@ -1,0 +1,15 @@
+[
+{"_id": "2022-06-04_Почти_серьёзно_Цирк_Никулина_на_Цветном_бульваре",
+"city": "MSK",
+"name": "Почти серьёзно",
+"theatre": "Цирк Никулина на Цветном бульваре",
+"date": {"$date": "2022-06-04T00:00:00Z"},
+"time": "00:00:00",
+"text": "",
+"sale": 1,
+"realCost": "0",
+"photo_name": [0],
+"price": "{currency=rub, min=150000, max=500000}",
+"link": "https://afisha.yandex.ru/moscow/circus_show/pochti-serezno"
+}
+]
